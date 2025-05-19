@@ -56,8 +56,8 @@ export function HeroSection() {
                 src="/images/1744206003877.png" 
                 alt="Mohammed Nabeel K, .NET Developer"
                 data-ai-hint="developer portrait professional"
-                width={600}
-                height={800}
+                width={400}
+                height={400}
                 className="rounded-full shadow-2xl object-cover relative z-10 border-4 border-background"
                 priority
               />
