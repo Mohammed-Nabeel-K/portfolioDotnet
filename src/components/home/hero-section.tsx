@@ -53,11 +53,11 @@ export function HeroSection() {
             <div className="relative w-[300px] h-[300px] sm:w-[350px] sm:h-[350px] lg:w-[400px] lg:h-[400px]">
               <div className="absolute inset-0 rounded-full bg-gradient-to-br from-blue-500/30 via-purple-500/40 to-pink-500/50 blur-2xl opacity-70 animate-pulse"></div>
               <Image
-                src="https://placehold.co/400x400.png" 
+                src="/images/1744206003877.png" 
                 alt="Mohammed Nabeel K, .NET Developer"
                 data-ai-hint="developer portrait professional"
-                width={400}
-                height={400}
+                width={600}
+                height={800}
                 className="rounded-full shadow-2xl object-cover relative z-10 border-4 border-background"
                 priority
               />
